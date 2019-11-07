@@ -1,0 +1,17 @@
+.btn-start{
+  background: white;
+  color: #543864;
+  border: solid 1px #543864;
+  padding: 2px 10px;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.btn-start:hover{
+  background: #543864;
+  color: white;
+  border: solid 1px white;
+  transition: 0.3s;
+  transform: scale(1);
+  font-weight: bold;
+}

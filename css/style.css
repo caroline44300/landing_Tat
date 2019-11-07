@@ -1,0 +1,23 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url('https://fonts.googleapis.com/css?family=Marck+Script&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Custom design below! */
+@import url('setup.css');
+
+/* Sections */
+@import url('sections/footer.css');
+@import url('sections/hero-banner.css');
+@import url('sections/how-it-works.css');
+
+/* Components */
+@import url('components/buttons.css');
+@import url('components/cards.css');
+
+@import url('responsive.css');
+
+
+

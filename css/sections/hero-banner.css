@@ -1,0 +1,29 @@
+.hero-banner {
+  height: 500px;
+  background-image: url('../../images/palm-trees.jpg');
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-banner .container {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.hero-banner .container h1,
+.hero-banner .container p,
+.hero-banner .container a {
+  margin: 5px auto;
+  text-align: center;
+}
+
+.hero-banner .container h1{
+  font-size: 30px
+}

@@ -1,0 +1,33 @@
+.footer {
+  background: #8b4367;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px
+}
+
+.footer p {
+  color: #ff6464;
+  font-size: 15px;
+  margin: 10px;
+  text-align: center;
+}
+
+.footer .container {
+  margin: 10px 0 0 10px;
+  text-align: center;
+}
+
+.footer .container a {
+  color: #ff6464;
+  font-size: 30px;
+  margin: 10px;
+}
+
+.footer .container a:hover {
+  color: white;
+  font-size: 40px;
+  margin: 10px;
+  transition: 0.3s;
+}
